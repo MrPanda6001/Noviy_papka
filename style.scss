@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+}
+.header {
+    background: #222222;
+    width: 375px;
+    height: 74px;
+    display: flex;
+}
+.logo {
+    width: 44px;
+    height: 38px;
+    padding-top: 18px;
+    padding-left: 18px;
+    padding-bottom: 18px;
+}
+.search {
+    width: 26px;
+    height: 26px;
+    justify-content: space-between;
+    padding-top: 28px;
+    margin-left: 41px;
+}
+.menu {
+    width: 32px;
+    height: 23px;
+    padding-top: 25px;
+    margin-left: 200px;
+}
+.name {
+    background: #F1E4E6;
+    width: 375px;
+    height: 363px;
+    display: flex;
+}
+.palka {
+    width: 12px;
+    height: 61px;
+    padding-top: 150px;
+    padding-left: 56px;
+    padding-bottom: 152px;
+}
+.brand {
+    justify-content: space-between;
+    width: 236px;
+    height: 66px;
+}
+.title {
+    font-family: 'Lato', sans-serif;
+    size: 20px;
+}
+.chey {
+    font-family: 'Lato', sans-serif;
+    size: 38px;
+}
+.red {
+    font-family: 'Lato', sans-serif;
+    color: pink;
+    size: 38px;
+}
